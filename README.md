@@ -12,7 +12,7 @@
 
 #### iOS
 
-- To utilize the Nearby SDK, `NearbyMessages` need to be linked to the project. Look to the example for Cocoapods usage.
+- To utilize the Nearby SDK, `NearbyMessages` needs to be linked to the project. Look to the example for Cocoapods usage.
   ```
   cd ios/
   pod init
